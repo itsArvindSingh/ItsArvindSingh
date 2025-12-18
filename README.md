@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arvind</h1>
 <h3 align="center">CSE AI/ML student at Marwadi University. Passionate about coding and learning Python & C.</h3>
+<p align="left"> 
+
+- 📫 How to reach me: **arvind05singh9617@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
