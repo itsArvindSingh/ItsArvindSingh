@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learn to build project and learn new concepts
+Passionate about learning new technologies, building projects, and exploring AI and Machine Learning.
 
 
 ## 🌐 Socials:
